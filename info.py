@@ -43,22 +43,22 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://SahilJangradm:<Sahilxbhai>@cluster0.dk26as0.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://SahilJangradm:Sahilxbhai@cluster0.dk26as0.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'paisakamalo.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '16badb4cdfbd26689b88c28d4385b24b5ec85d81')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Instantlinks.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '470a9b04437d5d49a5f4eb85658a0f155abcae0a')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movies_hub_official1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/TG_UPDATES1')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/TG_UPDATES1/371')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Master_Supportt')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/LM_Updates')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_LM_LINKS')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello Nanbha and Nanbis ❤️')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002119845734'))
