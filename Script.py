@@ -2,7 +2,7 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ Jaanu💖 {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/LM_Updates>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
 
-🌿 Updates Channel : <a href='https://t.me/LM_Updates'>Updates</a></b>"""
+Updates Channel : <a href='https://t.me/LM_Updates'>Join Now!</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
@@ -10,17 +10,18 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/LonelyMovies'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/LonelyMovies>Jangra_Boy😎</a>
- ‣ My best friend : <a href='https://t.me/UnknownOwnerlm'>Apne_Aage_Koi_Bol_Sakta_Hai_Kya✌</a> 
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/LonelyMovies>Jangra Boy😎</a>
+ ‣ My best friend : <a href='https://t.me/UnknownOwnerlm'>Apne Aage Koi Bol Sakta Hai Kya✌</a> 
  ‣ Updates Channel : <a href='https://t.me/LM_Updates'>UPDATES</a>
  </b>"""
 
     SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs 5⭐ Repo Bot With Stream/ Fast Download Link
+<b>Hᴇʏ, 
+Tʜɪs ɪs 5⭐ Repo Bot With Stream/ Fast Download Link
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
- Contact My Owner For Purchase This Premium Repository In Discount - <a href='https://t.me/LonelyMovies'> Contact My Owner </a></b>
+ Contact My Owner For Purchase This Premium Repository In Discount🏷️ - <a href='https://t.me/LonelyMovies'> Contact My Owner </a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
