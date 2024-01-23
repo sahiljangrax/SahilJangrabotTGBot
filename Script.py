@@ -225,9 +225,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     <a href="https://t.me/LM_Updates">OUR MAIN UPDATE CHANNEL</a>
 ╚══════════════════╝</b>"""
     IMDB_TEMPLATE_TXT = """
-<b>Query: {qurey}
-<b>🏷 Title</b>:
-
+<b>Search For : {qurey}
 ⏰ Result Shown in: {remaining_seconds} 
 💁‍♂️ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲 : {message.from_user.mention}</b>"""
     
