@@ -220,9 +220,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 🗂 {file_name}
 
 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
-════════════        
-    <a href="https://t.me/Lonely_Movies"> SPECIAL CHANNEL</a>
-════════════</b>"""
+</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Search For : {qurey}
 ⏰ Result Shown in: {remaining_seconds} 
