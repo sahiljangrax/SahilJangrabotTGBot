@@ -10,8 +10,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Sahiljangradm'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/LonelyMovies>Jangra Boy😎</a>
- ‣ My best friend : <a href='https://t.me/UnknownOwnerlm'>Apne Aage Koi Bol Sakta Hai Kya✌</a> 
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Sahiljangradm>Jangra Boy😎</a>
  ‣ Updates Channel : <a href='https://t.me/LonelyMoviesBackup'>UPDATES</a>
  </b>"""
 
@@ -21,7 +20,7 @@ Tʜɪs ɪs 5⭐ Repo Bot With Stream/ Fast Download Link
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
- Contact My Owner For Purchase This Premium Repository In Discount🏷️ - <a href='https://t.me/LonelyMovies'> Contact My Owner </a></b>
+ Contact My Owner For Purchase This Premium Repository In Discount🏷️ - <a href='https://t.me/Sahiljangradm'> Contact My Owner </a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -72,9 +71,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/LonelyMovies</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Sahiljangradm</a></b>
   
- <b>✯ Join here : <a href=https://t.me/LMsearch>Join My Movie Request Group</a></b> 
+ <b>✯ Join here : <a href=https://t.me/+AJNh2CmNfL1kNzI1>Join My Movie Request Group</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -217,13 +216,13 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """ 
-<b>══════════════════
+<b>
 🗂 {file_name}
-═══════════════════ 
+
 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
-╔══════════════════╗         
-    <a href="https://t.me/LonelyMoviesBackup">OUR MAIN UPDATE CHANNEL</a>
-╚══════════════════╝</b>"""
+═════════════════        
+    <a href="https://t.me/Lonely_Movies"> SPECIAL CHANNEL</a>
+══════════════</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Search For : {qurey}
 ⏰ Result Shown in: {remaining_seconds} 
@@ -447,7 +446,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 # dont remove my logo 
     PAID_TXT = """<b>Join a Prime group to get movie without any ads
 Your time is valuable, Stop watching ads and simply avoid the stupidity
-<a href='https://t.me/LonelyMoviesbackup'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
+<a href='https://t.me/+bbd8aFel12A3YWY1'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
 
 Prime Membership Progress
 
