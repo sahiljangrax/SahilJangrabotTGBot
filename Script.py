@@ -217,7 +217,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>
-🗂
+🗂 @Lonely_Movies🎁
 </b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Search For : {qurey}
