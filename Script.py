@@ -218,6 +218,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """ 
 <b>
 🗂 @Lonely_Movies🎁
+
+ ➡<a href="https://t.me/share/url?url=https%3A//t.me/SahilJangraBot">✨Share to Friend📢</a>⬅
 </b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Search For : {qurey}
