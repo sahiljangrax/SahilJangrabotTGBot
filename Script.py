@@ -1,16 +1,21 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ Jaanu💖 {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/Sahiljangradm>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
+    START_TXT = """<b>Hey👋{},🤩
 
-Updates Channel : <a href='https://t.me/LonelyMoviesBackup'>Join Now!</a></b>"""
+🍿 Wᴇʟᴄᴏᴍᴇ Tᴏ Tʜᴇ Wᴏʀʟᴅ's Cᴏᴏʟᴇsᴛ Sᴇᴀʀᴄʜ Eɴɢɪɴᴇ!
+
+Here You Can Request Movie's, Just Sent Movie OR WebSeries Name With Proper Google Spelling..!!
+
+⚠️ Wᴀᴛᴄʜ @LM_How_To_Watch_Movie for more information about how to...❓
+
+🎊 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆:<a href='https://t.me/@LonelyMoviesBots'>LonelyMoviesBots</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Sahiljangradm'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Sahiljangradm'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Sahiljangradm>Jangra Boy😎</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Sahiljangradm>Sahil Jangra</a>
  ‣ Updates Channel : <a href='https://t.me/LonelyMoviesBackup'>UPDATES</a>
  </b>"""
 
