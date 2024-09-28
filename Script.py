@@ -1,8 +1,8 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ Jaanu💖 {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/LM_Updates>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/LonelyMoviesBackup>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
 
-Updates Channel : <a href='https://t.me/LM_Updates'>Join Now!</a></b>"""
+Updates Channel : <a href='https://t.me/LonelyMoviesBackup'>Join Now!</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
@@ -12,7 +12,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/LonelyMovies>Jangra Boy😎</a>
  ‣ My best friend : <a href='https://t.me/UnknownOwnerlm'>Apne Aage Koi Bol Sakta Hai Kya✌</a> 
- ‣ Updates Channel : <a href='https://t.me/LM_Updates'>UPDATES</a>
+ ‣ Updates Channel : <a href='https://t.me/LonelyMoviesBackup'>UPDATES</a>
  </b>"""
 
     SOURCE_TXT = """
@@ -43,7 +43,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/LM_Updates)</code>
+<code>[Button Text](buttonurl:https://t.me/LonelyMoviesBackup)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -222,7 +222,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 ═══════════════════ 
 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
 ╔══════════════════╗         
-    <a href="https://t.me/LM_Updates">OUR MAIN UPDATE CHANNEL</a>
+    <a href="https://t.me/LonelyMoviesBackup">OUR MAIN UPDATE CHANNEL</a>
 ╚══════════════════╝</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Search For : {qurey}
