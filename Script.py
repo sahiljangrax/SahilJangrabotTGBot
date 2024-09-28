@@ -7,7 +7,7 @@ Here You Can Request Movie's, Just Sent Movie OR WebSeries Name With Proper Goog
 
 ⚠️ Wᴀᴛᴄʜ @LM_How_To_Watch_Movie for more information about how to...❓
 
-🎊 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆:<a href='https://t.me/@LonelyMoviesBots'>LonelyMoviesBots</a></b>"""
+🎊 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆: ➡<a href='https://t.me/LonelyMoviesBots'>LonelyMoviesBots</a>⬅</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.

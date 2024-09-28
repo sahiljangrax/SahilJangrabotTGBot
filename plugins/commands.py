@@ -45,7 +45,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('✔Special Links Channel🎉', url=CHNL_LNK),
+                    InlineKeyboardButton('✔Special Channel🎉', url=CHNL_LNK),
                     InlineKeyboardButton('✨Share Bot📢', url="https://t.me/share/url?url=https%3A//t.me/SahilJangraBot")
                 ],[
                     InlineKeyboardButton(' 🏍 𝐉𝐎𝐈𝐍 𝐀𝐃 𝐅𝐑𝐄𝐄 𝐆𝐑𝐎𝐔𝐏♻ ', callback_data='paid')
@@ -98,7 +98,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('✔Special Links Channel🎉', url=CHNL_LNK),
+                    InlineKeyboardButton('✔Special Channel🎉', url=CHNL_LNK),
                     InlineKeyboardButton('✨Share Bot📢', url="https://t.me/share/url?url=https%3A//t.me/SahilJangraBot")
                 ],[
                     InlineKeyboardButton('🏍 🏍 𝐉𝐎𝐈𝐍 𝐀𝐃 𝐅𝐑𝐄𝐄 𝐆𝐑𝐎𝐔𝐏♻♻ ', callback_data='paid')
