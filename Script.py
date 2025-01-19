@@ -222,7 +222,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>
-"""<b><code>{file_name}</code>\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Lonely_Movies">Lonely Movies</a>」</b>"""
+<b><code>{file_name}</code>\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Lonely_Movies">Lonely Movies</a>」</b>
 
  ➡<a href="https://t.me/share/url?url=https%3A//t.me/SahilJangraBot">✨Share to Friend📢</a>⬅
 </b>"""
