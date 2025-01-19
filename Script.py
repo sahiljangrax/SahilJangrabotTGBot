@@ -221,13 +221,14 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """ 
-<b>
-<b><blockquote>फिल्म चलेगी नहीं अगर अपने नीचे दिए गए ग्रुप्स जॉइन नहीं किए👇</blockquote>\n<blockquote>Movie Is Not Watchable Without Joining These Given Groups👇</blockquote> <blockquote>Film Chalegi Nahi Chalegi Agar Aap Niche Diye Gaye Groups ko Join Nahi kiya👇</blockquote>\n <blockquote>Movie Request Groups✅ -> 
+<b><b><blockquote>फिल्म चलेगी नहीं अगर अपने नीचे दिए गए ग्रुप्स जॉइन नहीं किए👇</blockquote>\n<blockquote>Movie Is Not Watchable Without Joining These Given Groups👇\n</blockquote> <blockquote>Film Chalegi Nahi Chalegi Agar Aap Niche Diye Gaye Groups ko Join Nahi kiya👇</blockquote>\n <blockquote>Movie Request Groups✅ -> 
 1. https://t.me/+Ns2TuI5KAKVmYjll
 2. https://t.me/MovieFinderGroupByLM
-3. https://t.me/MovieSearchGroupByLM</blockquote>\n 𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Lonely_Movies">Lonely Movies</a>」</b>
+3. https://t.me/MovieSearchGroupByLM</blockquote>\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Lonely_Movies">Lonely Movies</a>」</b>
+How To Watch OR Download ➥ 「<a href="https://t.me/LM_How_To_Watch_Movie">Click Here!</a>
 
- ➡<a href="https://t.me/share/url?url=https%3A//t.me/SahilJangraBot">✨Share to Friend📢</a>⬅
+Get Any Movie/Series in 10rs - <a href="https://t.me/sahiljangradm">Message NOW!</a>
+
 </b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Search For : {qurey}
