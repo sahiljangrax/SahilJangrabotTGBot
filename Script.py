@@ -222,7 +222,10 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>
-<b><code>{file_name}</code>\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Lonely_Movies">Lonely Movies</a>」</b>
+<b><blockquote>फिल्म चलेगी नहीं अगर अपने नीचे दिए गए ग्रुप्स जॉइन नहीं किए👇</blockquote>\n<blockquote>Movie Is Not Watchable Without Joining These Given Groups👇</blockquote> <blockquote>Film Chalegi Nahi Chalegi Agar Aap Niche Diye Gaye Groups ko Join Nahi kiya👇</blockquote>\n <blockquote>Movie Request Groups✅ -> 
+1. https://t.me/+Ns2TuI5KAKVmYjll
+2. https://t.me/MovieFinderGroupByLM
+3. https://t.me/MovieSearchGroupByLM</blockquote>\n 𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Lonely_Movies">Lonely Movies</a>」</b>
 
  ➡<a href="https://t.me/share/url?url=https%3A//t.me/SahilJangraBot">✨Share to Friend📢</a>⬅
 </b>"""
